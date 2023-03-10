@@ -3,8 +3,6 @@
 -->
 
 <?php
-
-
 // Set a function
 function random_shuffle($num)
 {
@@ -26,7 +24,4 @@ function random_shuffle($num)
 
 // Call the function with no parameter
 random_shuffle(2);
-
-
-
 ?>
